@@ -36,4 +36,4 @@ jobs:
         with:
           name: dist-files
           path: ./next
-          includes-hidden-files: true
+          include-hidden-files: true
