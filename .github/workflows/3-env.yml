@@ -1,5 +1,4 @@
 name: Environments
-on:name: Environments
 on:
   push:
     branches:
